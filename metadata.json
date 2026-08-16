@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseAI",
+  "description": "Smart AI-powered personal finance web app with expense tracking, budgets, interactive charts, and intelligent spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

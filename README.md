@@ -1,2 +1,20 @@
-# AI-Expense-Tracker
-Expense Tracker with AI Insights is a personal finance web app. A user signs up, logs their income and expenses, and the app turns that raw transaction data into visual dashboards and AI-generated advice about their spending habits — think Mint or YNAB, but with an LLM layer that actually talks to you about your money.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/f9104226-3db7-4791-8cc4-5002b2d31ad2
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
